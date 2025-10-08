@@ -1,5 +1,7 @@
 # EffectMidi
 
+简体中文 | [English](./README_EN.md)
+
 <p align="center"><img src="./resources/EffectMidi_1024.png" width="150px"/></p
 
 <em><h5 align="center">使用 <a href="https://electron-vite.org/">electron-vite</a> 构建，采用<a href="https://www.typescriptlang.org/">Typescript</a> + <a href="https://react.dev/">React</a> 开发，并依赖<a href="https://www.arduino.cc/">Arduino</a>平台运行</h5></em>
@@ -7,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/ChiruMori/EffectMidi/blob/master/LICENSE"><img src="https://img.shields.io/github/license/ChiruMori/EffectMidi?style=flat-square&logo=github" alt="License"></a>
-  <a href="https://github.com/ChiruMori/EffectMidi/tags"><img src="https://img.shields.io/github/downloads/ChiruMori/EffectMidi/total
-"/></a>
+  <a href="https://github.com/ChiruMori/EffectMidi/tags"><img src="https://img.shields.io/github/downloads/ChiruMori/EffectMidi/total" alt="Downloads"></a>
+  <a href="https://github.com/ChiruMori/EffectMidi/stargazers"><img src="https://img.shields.io/github/stars/ChiruMori/EffectMidi?style=social" alt="Stars"></a>
 <a href="https://hellogithub.com/repository/3c563d54a4aa4512bb64a1b0b28c362b" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=3c563d54a4aa4512bb64a1b0b28c362b&claim_uid=NyZTYxnBd92biCK&theme=small" alt="Featured｜HelloGitHub"/></a>
 </div>
 
@@ -28,7 +30,7 @@
 
 本程序提供以下功能：
 
-+ **✨界面外观设置**：（控制端）背景图、颜色主题、背景动画、点击动画、音符瀑布
++ **✨界面外观设置**：（控制端）背景图、颜色主题、背景动画、点击动画、音符瀑布、语言切换（目前支持中文、英文）
 + **⚙️设备连接**：支持选择生效的 MIDI 设备和串口设备（串口选择后需要手动启用）
 + **🌈效果设置**：支持设置灯带背景色、前景色、端点灯颜色、扩散宽度、延迟时间
 
