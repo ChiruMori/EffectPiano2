@@ -1,3 +1,5 @@
+
+
 # EffectMidi
 
 简体中文 | [English](./README_EN.md)
@@ -72,7 +74,7 @@ RP2040 系列，此外提供了 Fritzing 项目文件（`doc/effect-midi.rp2040.
 
 1. 下载本项目的代码，[Releases](https://github.com/ChiruMori/EffectMidi/releases) 中提供 Arduino 项目代码，解压后可以使用
 2. 使用 Arduino IDE 打开解压后的 `EffectMidi/EffectMidi.ino`，注意，项目代码非单文件，如果拷贝到其他目录，需要保持目录结构（`EffectMidi` 目录下文件完整）
-3. 安装对应开发板管理器（RP2040）：打开 Aruino IDE -> `文件` -> `首选项` -> `其他开发板管理器网址`，添加以下网址：`https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json`
+3. 安装对应开发板管理器（RP2040）：打开 Arduino IDE -> `文件` -> `首选项` -> `其他开发板管理器网址`，添加以下网址：`https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json`
    ![添加 RP2040 开发板管理器](./doc/tutorial01.png)
 4. 点击确定，等待下载完毕
 5. 选择开发板：`工具` -> `开发板` -> 选择 `Raspberry Pi Pico` -> 对应型号的开发板
